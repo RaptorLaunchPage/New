@@ -245,7 +245,7 @@ export default function RaptorLaunchPage() {
 
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                   <Link
-                    href="https://www.instagram.com/raptor.esports__"
+                    href="https://www.instagram.com/raptorofficial.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto"
